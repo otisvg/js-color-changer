@@ -9,3 +9,10 @@ body {
   padding-bottom: 50px;
   text-align: center;
 }
+
+.box {
+  width: 25%;
+  height: 80px;
+  background-color: grey;
+  margin-bottom: 30px;
+}
